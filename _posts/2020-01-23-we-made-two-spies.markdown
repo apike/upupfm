@@ -17,4 +17,4 @@ explicit: "no"
 
 - [Two Spies](http://playspies.com)
 - The [game on the App Store](https://apps.apple.com/us/app/two-spies/id1466304408)
-- [Steamcoock](http://www.steamclock.com/)
+- [Steamclock](http://www.steamclock.com/)
