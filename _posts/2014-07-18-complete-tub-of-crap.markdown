@@ -7,7 +7,7 @@ title: "21. A Complete Tub of Crap"
 topic: "3D APIs with Guy English"
 duration: "1:38:41"
 length: 59211409
-link: http://traffic.libsyn.com/upupshow/upup21a.mp3
+link: https://pinecast.com/listen/28c00d8f-0261-4b68-b8f8-e023d32163c2.mp3?source=rss&amp;aid=af289b89-150f-40fc-9448-4e1c9c9afb75.mp3
 summary: "Guy English returns to discuss 3D graphics APIs, so hold on to your butts. We start with the origins of the GPU, and recount the evolution of graphics APIs. We dig in to what a modern GPU actually does, and then discuss Apple's new graphics API, Metal. Guy and Nigel reminisce about just how horrible programming for the PlayStation 2 was, we talk latency, and finally Guy explores his relationship with Riddler trophies."
 explicit: "no"
 

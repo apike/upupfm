@@ -7,7 +7,7 @@ title: "12. First Person Shooter Monkey Island"
 topic: "Retro Games with Neven Mrgan"
 duration: "1:04:51"
 length: 42175338
-link: http://traffic.libsyn.com/upupshow/upup12.mp3
+link: https://pinecast.com/listen/e9efd84f-0a4f-4d48-873a-cccea076f2ac.mp3?source=rss&amp;aid=8e21a283-f548-4240-a7dc-790ff5076631.mp3
 summary: "Neven Mrgan, designer of wonderful apps and games, joins us to discuss retro games. We discuss his upcoming game Space Age, the challenges of pixel art, and Neven's previous games The Incident and Blackbar."
 explicit: "no"
 

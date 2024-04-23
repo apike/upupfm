@@ -7,7 +7,7 @@ title: "26. Final_Final_REAL_FINAL_v5.wav"
 topic: "Audio Design with Matt Marteinsson"
 duration: "1:11:47"
 length: 55418952
-link: http://traffic.libsyn.com/upupshow/upup26b.mp3
+link: https://pinecast.com/listen/e88afedf-24d1-44c2-9013-43e9b9f94e32.mp3?source=rss&amp;aid=086202ee-0913-42b0-a6c9-0233cf9c8079.mp3
 summary: "Matthew Marteinsson, audio designer at Klei Entertainment, joins us to discuss sound design in games. We talk about the various techniques Matt used in Klei's recent game Don't Stave, from bees to gobblers. We discuss recording sound effects, what makes great sound design, what makes bad sound design, and some of what makes voice acting a pain. We also touch on Destiny, and get a little epic."
 explicit: "no"
 

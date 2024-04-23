@@ -7,7 +7,7 @@ title: "3. Three Quarters of Half-Life One"
 topic: "Game Length with Patrick Gibson"
 duration: "1:10:52"
 length: 43223929
-link: http://traffic.libsyn.com/upupshow/upup3.mp3
+link: https://pinecast.com/listen/17dfa5fe-d4bf-4552-b0b8-e069b64dd671.mp3?source=rss&amp;aid=9ce88477-0bf9-472c-a4aa-52901a6acde3.mp3
 summary: "Patrick Gibson joins us to discuss games that are too long, side quests, tearing up, and flapping."
 explicit: "no"
 

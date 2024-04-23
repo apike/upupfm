@@ -7,7 +7,7 @@ title: "22. Games Are Things Made By People"
 topic: "Indie Collaboration with Adam 'Atomic' Saltsman"
 duration: "1:09:41"
 length: 41816732
-link: http://traffic.libsyn.com/upupshow/upup22.mp3
+link: https://pinecast.com/listen/85dd2954-9165-442b-8d5a-b73f62e821f1.mp3?source=rss&amp;aid=7a9b3a4b-2b5d-4582-8bae-4ffa025ae790.mp3
 summary: "Adam 'Atomic' Saltsman joins us to discuss collaboration and sustanability in the world of indie games. We talk about Adam's new venture Finji Games, and collaborating with fans, from early access to Earliest Access. We fondly remember Canabalt, remember that critical hits aren't always commercial hits, and discuss how contracting fills the gaps between projects. We finish by discussing the intense competitive pressure in the indie market, and the daunting task of building a 3D game."
 explicit: "no"
 

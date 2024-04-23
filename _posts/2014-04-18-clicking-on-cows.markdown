@@ -7,7 +7,7 @@ title: "9. Getting Bored of Clicking On Cows"
 topic: "Web Games with Angelina Fabbro"
 duration: "1:27:51"
 length: 52715279
-link: http://traffic.libsyn.com/upupshow/upup9.mp3
+link: https://pinecast.com/listen/3a5701cc-b82a-46de-9532-e39dc108f428.mp3?source=rss&amp;aid=f4581828-86c5-4500-8951-96650555ec4b.mp3
 summary: "Angelina Fabbro of Mozilla joins us to discuss games on the web, why the hell people are still using C++, and business models for web-based games. After that, we jump in to games we're playing on the iPad, what's wrong with MMOs, and how Pokémon will never die."
 explicit: "no"
 

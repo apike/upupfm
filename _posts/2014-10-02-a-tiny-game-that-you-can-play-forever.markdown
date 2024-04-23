@@ -7,7 +7,7 @@ title: "27. A Tiny Game That You Can Play Forever"
 topic: "Puzzle Games with Asher Vollmer"
 duration: "1:14:26"
 length: 44664863
-link: http://traffic.libsyn.com/upupshow/upup27a.mp3
+link: https://pinecast.com/listen/629a2671-4993-407d-9712-8fca4c8307ad.mp3?source=rss&amp;aid=84c35468-c097-40f4-afa6-e4405145b120.mp3
 summary: "Asher Vollmer, creator of Threes and Close Castles, joins us to talk puzzle games. We discuss the process of designing developing Threes, and what goes in to making a great little puzzle game. We then talk about the whimsical minimalism that works so well in indie games, and how to bring them to life. We talk about difficulty, complexity, and how to tune games. We touch on the effects of free to play on puzzle games, and how it makes us feel weird. Afterwards, we talk Wii U games, Divinity: Original Sin, trying to get our RPG fix, and Manwiches."
 explicit: "no"
 

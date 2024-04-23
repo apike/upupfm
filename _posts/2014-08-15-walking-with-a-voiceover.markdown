@@ -7,7 +7,7 @@ title: "24. Walking with a Voiceover"
 topic: "Content and Systems with Daniel Cook"
 duration: "1:14:10"
 length: 44501336
-link: http://traffic.libsyn.com/upupshow/upup24.mp3
+link: https://pinecast.com/listen/71c54ca5-5baf-4150-b3ed-2064361f65e9.mp3?source=rss&amp;aid=a1282688-750d-4847-bb11-d97baf51af89.mp3
 summary: "Daniel Cook of Spry Fox joins us to discuss content-focused and system-focused game design. We talk about the rise of narrative games like Gone Home and Journey, and contrast them to system-centric games that offer deeper gameplay, at the expense of greater risk to game developers. We talk about how these forces have affected Spry Fox's games, and dig in to their latest, Road Not Taken."
 explicit: "no"
 

@@ -7,7 +7,7 @@ title: "7. Criticizing Water For Being Wet"
 topic: "Game Reviews with Scott Stevenson"
 duration: "1:28:45"
 length: 53250528
-link: http://traffic.libsyn.com/upupshow/upup7.mp3
+link: https://pinecast.com/listen/26af0290-13fe-4046-bdc9-276b7551cf87.mp3?source=rss&amp;aid=bef4e048-66db-4b4b-95c9-5a96e3e8eaa3.mp3
 summary: "Scott Stevenson joins us to discuss game reviews, game-breaking bugs, and what's wrong with Lara Croft getting impaled."
 explicit: "no"
 

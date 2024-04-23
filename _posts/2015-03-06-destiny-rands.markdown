@@ -7,7 +7,7 @@ title: "38. The Bullet Spongiest Bullet Sponge"
 topic: "Destiny with Michael “Rands” Lopp"
 duration: "1:19:52"
 length: 47923116
-link: http://traffic.libsyn.com/upupshow/upup38.mp3
+link: https://pinecast.com/listen/3c51b0c4-d242-49dc-9235-c1ab6991b5d8.mp3?source=rss&amp;aid=d0ffda6c-d23f-4f72-bf65-6c4283da20a4.mp3
 summary: "Michael 'Rands' Lopp joins us to talk Destiny. We briefly discuss its budget and profitability before digging in to the question of why, despite its problems, it's a fun game. We dissect the Crucible PvP mode, matchmaking, the story or lack thereof, leveling, and bullet sponges. Afterwards, we fail at going off topic and talk about the expansion, raiding, voice acting, and the surprisingly clever UI."
 explicit: "yes"
 

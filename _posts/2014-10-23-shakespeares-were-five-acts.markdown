@@ -7,7 +7,7 @@ title: "29. Shakespeares Were Five Acts"
 topic: "Episodic Games with Ryan Payton"
 duration: "1:22:28"
 length: 49480275
-link: http://traffic.libsyn.com/upupshow/upup29.mp3
+link: https://pinecast.com/listen/d4b34716-09a8-48a5-a7ed-2ebf0705f7bd.mp3?source=rss&amp;aid=134a3612-68fb-41dd-b311-e9832e0ba8da.mp3
 summary: "Ryan Payton, in the midst of shipping Episode 3 of the critically acclaimed République, joins us to discuss episodic games. We start with a diversion into the challenge of supporting slower and older devices, then talk Season's Passes, approaches to releasing game episodes, Telltale Games, and then go more in depth on République. Afterward, we talk about Destiny, Shadows of Mordor, console sales numbers, and buy some games on PSN."
 explicit: "no"
 

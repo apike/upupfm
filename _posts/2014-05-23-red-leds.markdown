@@ -7,7 +7,7 @@ title: "14. The Red LEDs Were Cheaper"
 topic: "Failed Consoles with Kyle Orland"
 duration: "1:17:37"
 length: 46576765
-link: http://traffic.libsyn.com/upupshow/upup14a.mp3
+link: https://pinecast.com/listen/f5186d04-949d-4256-9c56-976b6be3ed84.mp3?source=rss&amp;aid=3c6427a6-7e13-4500-83f1-bb1afde05fa1.mp3
 summary: "Ars Technica's Kyle Orland joins us to discuss the great failures in game consoles. We talk about our favourite doomed consoles, the story of Sega's downfall, and Nintendo's journey through the desert with the Wii U."
 explicit: "no"
 

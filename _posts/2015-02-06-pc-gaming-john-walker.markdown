@@ -7,7 +7,7 @@ title: "37. Early Access Without Any Access"
 topic: "PC Gaming with John Walker"
 duration: "1:24:34"
 length: 50745646
-link: http://traffic.libsyn.com/upupshow/upup37.mp3
+link: https://pinecast.com/listen/17053f4a-2220-4d9c-b254-eca3d1f44f20.mp3?source=rss&amp;aid=1c19da58-7c01-4cda-8491-bd5866474ea3.mp3
 summary: "John Walker, co-director and editor of Rock, Paper, Shotgun, joins us to discuss the state of PC gaming. We talk Early Access, Kickstarter, preorders, and the many pitfalls therein. We dig in to the profitability of PC ports, dismiss various kinds of football, dissect the longevity of old-school games, and try to guess the fate of Oculus. Afterward, we discuss terrible Early Access games, terrible hilarious games, and Allen's latest terrible game idea."
 explicit: "no"
 

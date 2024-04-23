@@ -7,7 +7,7 @@ title: "23. How Not to Doom Yourself"
 topic: "Failed Games with Curtis Lassam"
 duration: "1:06:39"
 length: 39993124
-link: http://traffic.libsyn.com/upupshow/upup23a.mp3
+link: https://pinecast.com/listen/d3940c59-cda5-4472-bea5-32e7ac112156.mp3?source=rss&amp;aid=4e247967-37b4-4a1c-bdb0-9e07741dbfbe.mp3
 summary: "Curtis Lassam joins us to discuss the great failures in video games. We kick things off with Jurassic Park: Trespasser, then learn about Curtis' Three Rules to Not Doom Yourself. We follow the rocky career of Tim Schafer, then Nigel tells us all about Daikatana. Afterwards, we bat around a bad idea for a video game, and talk couch co-op games."
 explicit: "no"
 

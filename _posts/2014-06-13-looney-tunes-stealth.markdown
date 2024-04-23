@@ -7,7 +7,7 @@ title: "16. The Looney Tunes School of Stealth"
 topic: "Stealth with Justin Voss"
 duration: "1:12:06"
 length: 43264699
-link: http://traffic.libsyn.com/upupshow/upup16.mp3
+link: https://pinecast.com/listen/a69f9ce7-e1bd-4613-ac7e-adbb728e8457.mp3?source=rss&amp;aid=cf782b29-88cf-4aaa-95f4-a10bda5549c3.mp3
 summary: "Justin Voss of Low Earth Orbit joins us to talk stealth games. We discuss the origin of stealth games, instant failure, and the joy of finding alternative ways to complete a mission. Then, we rag on Metal Gear Solid and salivate over E3 announcements."
 explicit: "no"
 

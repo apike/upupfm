@@ -7,7 +7,7 @@ title: "41. Let Me Pick Three Colors"
 topic: "Art of 3D Games with Jane Ng"
 duration: "1:01:47"
 length: 37083083
-link: http://traffic.libsyn.com/upupshow/upup41.mp3
+link: https://pinecast.com/listen/bd7debfb-b007-49b0-98da-25b511f426d9.mp3?source=rss&amp;aid=8ee3e8bc-db52-41a6-ad94-22f284c3b903.mp3
 summary: "Firewatch's 3D Artist Jane Ng joins us to disuss 3D art in indie games. We talk about some of the remarkable ways Campo Santo has made Firewatch look beautiful and distinctive. We discuss procedural sky generation, stylistic fog systems, and general challenges with making art for games with small teams. Afterwards, we talk Dragon Age Inquisition, Mario Maker, and avoiding playing Destiny."
 explicit: "no"
 

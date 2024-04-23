@@ -7,7 +7,7 @@ title: "40. The Les Miserables Barricade"
 topic: "3D Level Design with Bobby Ross"
 duration: "1:34:39"
 length: 56791165
-link: http://traffic.libsyn.com/upupshow/upup40.mp3
+link: https://pinecast.com/listen/8100e747-f4dc-4fd4-9218-ba78b65cf827.mp3?source=rss&amp;aid=3d3d96ad-3e0c-468e-a197-d5b192d880d9.mp3
 summary: "We're back for Season 2! Game designer Bobby Ross joins us to talk level design. We talk about the process of designing levels, lighting technology in 3D games, how to create balaced PvP, invisible walls, and other challenges of level design. Afterwards, we talk about what we liked at PAX."
 explicit: "no"
 

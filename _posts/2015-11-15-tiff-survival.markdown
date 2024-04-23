@@ -7,7 +7,7 @@ title: "43. What the Heck?"
 topic: "Survival Games with Tiff Arment"
 duration: "1:08:38"
 length: 41179867
-link: http://traffic.libsyn.com/upupshow/upup43.mp3
+link: https://pinecast.com/listen/71b83834-cf20-41b2-aedc-5da300857346.mp3?source=rss&amp;aid=df76896d-de6d-4768-9bd8-2347d62905af.mp3
 summary: "Tiff Arment joins us to discuss the ups and downs of survival games. We dig in to stark and frozen landscape of The Long Dark, the dark whimsy of Don't Starve, and Minecraft's role in kickstarting the whole genre. Afterwards, we discuss Prison Architect, the hardest difficulty in The Last of Us, Goat Simulator, and podcast microphones."
 explicit: "no"
 
