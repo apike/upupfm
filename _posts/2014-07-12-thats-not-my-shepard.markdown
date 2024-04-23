@@ -7,7 +7,7 @@ title: "20. That's Not My Shepard"
 topic: "Narrative with Amanda Warner and Brianna Wu"
 duration: "1:30:50"
 length: 54499703
-link: http://traffic.libsyn.com/upupshow/upup20b.mp3
+link: https://pinecast.com/listen/5aaadcb2-6ba5-452f-bbef-96fd4bdd3a74.mp3?source=rss&amp;aid=146e412e-3ff6-4071-92cb-640a6bc96a94.mp3
 summary: "Brianna Wu and Amanda Warner of Giant Spacekat Games join us to talk about narrative in games. We talk about our favourite storylines, developmentof Giant Spacekat's imminent game Revolution 60, Unreal Engine, hand-crafted animations, and the Spacekats' plans for a sequel."
 explicit: "no"
 

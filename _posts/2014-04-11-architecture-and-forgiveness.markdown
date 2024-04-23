@@ -7,7 +7,7 @@ title: "8. Architecture and Forgiveness"
 topic: "Games as Art with Ken Wong"
 duration: "1:26:52"
 length: 52133010
-link: http://traffic.libsyn.com/upupshow/upup8.mp3
+link: https://pinecast.com/listen/07de58a3-0e8f-4129-91a5-81bc21a53274.mp3?source=rss&amp;aid=87704537-5aa3-471f-b91b-8ef24509bbfb.mp3
 summary: "Monument Valley's Ken Wong joins us to discuss games as art, Monument Valley, and the business of crafting meaningful games."
 explicit: "no"
 

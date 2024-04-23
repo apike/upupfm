@@ -7,7 +7,7 @@ title: "31. I Want to Kinda Annoy People"
 topic: "Rewards with Justin Smith"
 duration: "53:52"
 length: 32326708
-link: http://traffic.libsyn.com/upupshow/upup31.mp3
+link: https://pinecast.com/listen/1c867ca9-ed40-446a-8a12-828bbe2c31a6.mp3?source=rss&amp;aid=21ec83be-1e0f-4380-b94c-0e3686e7b636.mp3
 summary: "Desert Golfing's Justin Smith joins us from an alien spaceship to discuss reward in games, or a lack thereof. We talk about the world's reception to his game Desert Golfing, and game design tools like high scores, story progression, leveling up, and sparkles. We also touch on Justin's games No Brakes Valet and Enviro-Bear 2000, and the inherent reward you get from watching an indie developer you love succeed."
 explicit: "no"
 

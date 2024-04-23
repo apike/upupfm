@@ -7,7 +7,7 @@ title: "35. We're Made of Bells and Whistles"
 topic: "Indie Game Marketing with Maya Kramer"
 duration: "1:08:05"
 length: 40856471
-link: http://traffic.libsyn.com/upupshow/upup35.mp3
+link: https://pinecast.com/listen/2e709421-9ccd-401e-a21b-7101bdadb9fe.mp3?source=rss&amp;aid=9292f475-840a-4738-afdb-74a2f5918f32.mp3
 summary: "Maya Kramer, indie game marketing extraordinaire, joins us to talk PR and marketing. We discuss conferences and expos, getting the word out about indie games, the story of Towerfall, and how games filter up from the noise to journalists and platforms like PSN. Afterwards, we talk PSN outages, getting killed by dragons, and dystopian nudity."
 explicit: "no"
 

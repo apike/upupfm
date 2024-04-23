@@ -7,7 +7,7 @@ title: "15. Being a Bad Spider-Man"
 topic: "Open Worlds with Scott Stevenson"
 duration: "1:18:50"
 length: 47389695
-link: http://traffic.libsyn.com/upupshow/upup15a.mp3
+link: https://pinecast.com/listen/7d26e653-0e23-4e6e-b9a1-19fd947d3f0c.mp3?source=rss&amp;aid=44d399dd-ae6a-4bba-a863-5acf7e30e518.mp3
 summary: "Scott Stevenson of Low Earth Orbit joins us to talk open world games. We discuss side quests, player choice, railroading, and trying to tell a story when the player can ruin everything. As usual, we end with a diversion into games we're excited about, and some peculiar Kickstarters."
 explicit: "no"
 

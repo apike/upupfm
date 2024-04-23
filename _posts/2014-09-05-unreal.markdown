@@ -7,7 +7,7 @@ title: "25. So Unreal is Just Amazing"
 topic: "Game Engines with Jeff Lamarche"
 duration: "1:32:21"
 length: 55418952
-link: http://traffic.libsyn.com/upupshow/upup25.mp3
+link: https://pinecast.com/listen/9ba442fa-a10c-4f83-8c85-7a205149b698.mp3?source=rss&amp;aid=12324c0c-7508-4ce8-9c03-0827999fc47e.mp3
 summary: "Martiancraft's Jeff LaMarche joins us to discuss 3D game engines. We discuss the core features of a game engine, what Unity brings to the table, and why it has become so popular for indie games like Martiancraft's Republic Sniper. Then we dig in to Unreal, Jeff's team's switch to it from Unity, and what makes it so wonderfully fantastic."
 explicit: "no"
 

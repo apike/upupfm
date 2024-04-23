@@ -7,7 +7,7 @@ title: "32. Perfect Combination of Quality and Quantity"
 topic: "Digital Distribution with Federico Viticci"
 duration: "1:21:48"
 length: 49092095
-link: http://traffic.libsyn.com/upupshow/upup32.mp3
+link: https://pinecast.com/listen/ddaf95a9-25ef-4ddc-80e9-a56b73a8b44a.mp3?source=rss&amp;aid=b707e3e3-b062-4a9b-9c11-4c8e1f9cf381.mp3
 summary: "This week Federico Viticci joins us to talk digital distribution. We discuss about Nintendo's attempts to court indie developers compared to Sony and Microsoft's, the programs that make cross-plaftorm development plausible for indies, the various digital download platforms both on the consoles and the App Store, curation on the App Store and Steam, the effects of discounting on games."
 explicit: "no"
 

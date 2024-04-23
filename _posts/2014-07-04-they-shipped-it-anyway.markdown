@@ -7,7 +7,7 @@ title: "19. They Shipped It Anyway"
 topic: "Porting Games with Philippe Casgrain"
 duration: "1:05:04"
 length: 39044357
-link: http://traffic.libsyn.com/upupshow/upup19.mp3
+link: https://pinecast.com/listen/6320a7ef-db77-482f-a1d4-3013f4945c0a.mp3?source=rss&amp;aid=d1bde689-4a55-4bda-978e-85b066a84418.mp3
 summary: "Philippe Casgrain of NSNorth and formerly of Transgaming joins us to discuss porting games. We discuss the technologies behind virtualizing games on the Mac, ports gone bad, and the effects of consoles on the PC versions of games. Then, we talk a bit about Wii U games and Hearthstone."
 explicit: "no"
 

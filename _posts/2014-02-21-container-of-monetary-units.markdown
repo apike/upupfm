@@ -7,7 +7,7 @@ title: "1. Container of Monetary Units"
 topic: "In App Purchase with Matt Kump"
 duration: "1:11:44"
 length: 47486328
-link: http://traffic.libsyn.com/upupshow/upupep1.mp3
+link: https://pinecast.com/listen/37e6ab0b-fede-4c66-818d-6fc95f1fc3cc.mp3?source=rss&amp;aid=183f8047-9e30-4b9e-88d3-c593fbd23cb1.mp3
 summary: "Matt Kump joins us to discuss In App Purchase, what horrible things it's done to the games we love, and what we can learn from Party Poker."
 explicit: "no"
 

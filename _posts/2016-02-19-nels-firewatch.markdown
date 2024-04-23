@@ -7,7 +7,7 @@ title: "45. How the Hell to Make Firewatch"
 topic: "Making Narrative Games with Nels Anderson"
 duration: "1:17:27"
 length: 46478022
-link: http://traffic.libsyn.com/upupshow/upup45.mp3
+link: https://pinecast.com/listen/0f3a97d4-e87c-48db-97a9-ce38084cece0.mp3?source=rss&amp;aid=25a0c1d2-212c-4129-85e8-3254de0fd2d5.mp3
 summary: "Campo Santo's Nels Anderson joins us to discuss making narrative games, and in particular, Campo Santo's new hit game Firewatch. Waving the spoilers flag high, we dig in to what makes Firewatch tick, the crazy world of branching narrative, tricky aspects of making the game, flapjacks, and the horrors of first-person character models. Afterward, we talk about weird bugs, The Witness, and 1988."
 explicit: "no"
 

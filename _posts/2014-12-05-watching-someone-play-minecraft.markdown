@@ -7,7 +7,7 @@ title: "34. Watching someone else play Minecraft"
 topic: "Minecraft with John Moltz"
 duration: "1:22:47"
 length: 49678544
-link: http://traffic.libsyn.com/upupshow/upup34.mp3
+link: https://pinecast.com/listen/025477b9-2dc3-4c2d-b917-4afe98a8425a.mp3?source=rss&amp;aid=c9cdae29-681a-46f8-bb06-9dc7dfd80c7d.mp3
 summary: "...."
 explicit: "no"
 

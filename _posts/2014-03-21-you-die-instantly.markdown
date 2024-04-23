@@ -7,7 +7,7 @@ title: "5. You Die Instantly"
 topic: "Game Difficulty with Tyson Kallberg"
 duration: "1:14:42"
 length: 44827344
-link: http://traffic.libsyn.com/upupshow/upup5.mp3
+link: https://pinecast.com/listen/fbe0c2b9-52a0-402c-9077-bafb6928eebc.mp3?source=rss&amp;aid=817a60eb-d25f-44af-a01c-8a1edff434ea.mp3
 summary: "Tyson Kallberg joins us to discuss why games are getting easier, what makes us want to ragequit, and death by checkpoint."
 explicit: "yes"
 

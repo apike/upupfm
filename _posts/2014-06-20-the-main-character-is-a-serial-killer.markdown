@@ -7,7 +7,7 @@ title: "17. The Main Character is a Serial Killer!"
 topic: "Morality in Games with Peter Cohen"
 duration: "1:06:33"
 length: 39936177
-link: http://traffic.libsyn.com/upupshow/upup17.mp3
+link: https://pinecast.com/listen/78a44a11-1339-4205-bfa6-654168333b73.mp3?source=rss&amp;aid=4a47ffbd-308c-42e0-bbf2-ebd444220b51.mp3
 summary: "iMore's Peter Cohen joins us to discuss morality in video games, and what it means to play dictators, serial killers, and just plain jerks. We determine whether or not this makes us bad people, and whether or not it's going to traumatize our kids. Finally, we discuss the futility of going to E3."
 explicit: "no"
 

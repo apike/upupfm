@@ -7,7 +7,7 @@ title: "36. Scintillating Amazon Javelins of the Whale"
 topic: "Procedural Content with Noel Berry"
 duration: "1:02:53"
 length: 37738495
-link: http://traffic.libsyn.com/upupshow/upup36.mp3
+link: https://pinecast.com/listen/fdf9775e-03db-4101-8477-208c749cfe86.mp3?source=rss&amp;aid=ce9e73b3-c013-4f26-a1b9-a2e35603dd81.mp3
 summary: "Noel Berry, developer of the upcoming procedural platformer Skytorn, joins us to discuss procedural content in games. We talk about Skytorn and how its levels are built, and discuss many other indie games with procedural levels, from Minecraft to Don't Starve. We dig in to what kinds of games generated content works for and what kinds it doesn't, and how to model Paris with only a few hundred artists."
 explicit: "no"
 

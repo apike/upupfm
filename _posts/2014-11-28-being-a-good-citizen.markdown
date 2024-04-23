@@ -7,7 +7,7 @@ title: "33. Being a Good Citizen on the Platform"
 topic: "Developing for Apple Platforms with Matt Comi"
 duration: "1:07:24"
 length: 40443997
-link: http://traffic.libsyn.com/upupshow/upup33.mp3
+link: https://pinecast.com/listen/4421715f-3fac-4d83-90e1-7c55f3a75498.mp3?source=rss&amp;aid=f440a266-7618-49f8-95ab-d745c3baf3cf.mp3
 summary: "Matt Comi of Big Bucket joins us to discuss developing games on Apple platforms. We talk about Matt and Neven Mrgan's new game Space Age, porting games written for iOS and the Mac, Swift and Objective-C as languages for game development, and building the game engine and level editor for Space Age. Afterwards, we talk about a couple of the recent game industry travesties."
 explicit: "no"
 

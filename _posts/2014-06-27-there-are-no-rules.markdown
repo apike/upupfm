@@ -7,7 +7,7 @@ title: "18. There Are No Rules"
 topic: "Games for Kids with Amanda Rösler"
 duration: "59:19"
 length: 35599850
-link: http://traffic.libsyn.com/upupshow/upup18.mp3
+link: https://pinecast.com/listen/d25cf2b1-24ae-42a0-a426-c9c5c6647c11.mp3?source=rss&amp;aid=a5a9bb7b-dafe-4996-a2d7-9572966282f8.mp3
 summary: "Toca Boca's Amanda Rösler joins us to discuss making great games for kids. We talk about why Toca Boca's apps are more like toys than they are games, games for kids on the App Store, and the pitfalls of making games for kids. Later, we talk about co-op games we're looking forward to playing."
 explicit: "no"
 

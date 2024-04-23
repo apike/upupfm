@@ -7,7 +7,7 @@ title: "42. Flood Their Cities With Poop Water"
 topic: "Simulation Games with Karoliina Korppoo"
 duration: "1:00:53"
 length: 36533728
-link: http://traffic.libsyn.com/upupshow/upup42.mp3
+link: https://pinecast.com/listen/96e48813-eeec-42bb-bfb4-07588a1ebb99.mp3?source=rss&amp;aid=5b704ae5-1b37-4237-8988-98a44160e2fa.mp3
 summary: "Karoliina Korppoo, Lead Designer on Cities Skylines, joins us to discuss simulation games. We discuss the challenges of simulations, making traffic work, cruise ships on land, how to focus on fun, and poop water. Afterwards, we discuss the new expansion After Dark, Diablo, and the glory of single-player games."
 explicit: "no"
 

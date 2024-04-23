@@ -7,7 +7,7 @@ title: "44. You're Buying a Child"
 topic: "Art Direction with Chris Bourassa"
 duration: "1:10:36"
 length: 42365565
-link: http://traffic.libsyn.com/upupshow/upup44.mp3
+link: https://pinecast.com/listen/49531ede-760b-4eb5-a19e-1e63c8d292c7.mp3?source=rss&amp;aid=7140cbe2-caa4-403a-a183-4b791dfed068.mp3
 summary: "Chris Bourassa, Creative Director of Red Hook Games, joins us to talk about their hit new game Darkest Dungeon. We talk fairness, difficulty, early access, and corpses. Then we dig in to Chris' art direction, including the look and feel of the characters, and the tools and processes he uses to create the game's distinctive art. Afterward, we talk about some of the games we've been playing, stealth, and magic whales."
 explicit: "no"
 

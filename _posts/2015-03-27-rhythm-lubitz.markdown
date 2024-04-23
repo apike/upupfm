@@ -7,7 +7,7 @@ title: "39. Strumming the Strum Button"
 topic: "Rhythm Games with Steve Lubitz"
 duration: "1:24:24"
 length: 50648210
-link: http://traffic.libsyn.com/upupshow/upup39.mp3
+link: https://pinecast.com/listen/942876cf-82a6-4b18-a133-08a3df97498b.mp3?source=rss&amp;aid=a373a486-7c58-4369-ad6a-7d2dce405b70.mp3
 summary: "Isometric's Steve Lubitz joins us to talk rhythm games. We start with the strange origins of rhythm games on the PlayStation in the 1990s and the craze of DDR. We dig in to the rise of plastic instruments, the joy of getting good at Rock Band, and the Great Plastic Crash of 2009. We touch on dance and karaoke games, and finish on what it takes for 3D to impress John Carmack."
 explicit: "no"
 

@@ -7,7 +7,7 @@ title: "46. Goofy as Heck"
 topic: "Gaming on Apple TV with Serenity Caldwell"
 duration: "1:21:16"
 length: 48764781
-link: http://traffic.libsyn.com/upupshow/upup46.mp3
+link: https://pinecast.com/listen/c2419a2c-77d8-498c-9c7d-7f7603abc835.mp3?source=rss&amp;aid=eb6b9e27-7be1-43f1-b0ba-122136495c5c.mp3
 summary: "Serenity Caldwell joins us to talk Apple TV."
 explicit: "no"
 

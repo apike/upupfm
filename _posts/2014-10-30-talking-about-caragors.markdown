@@ -7,7 +7,7 @@ title: "30. Talking About Caragors"
 topic: "Enemy AI with Georgia Dow"
 duration: "1:06:55"
 length: 40163704
-link: http://traffic.libsyn.com/upupshow/upup30.mp3
+link: https://pinecast.com/listen/865b6c6a-3afe-4ce1-bc37-f5e33e7053c3.mp3?source=rss&amp;aid=10ee1226-2e1d-4ec3-a1fa-df722590ff19.mp3
 summary: "Isometric's Georgia Dow joins us to discuss good and bad enemy AI. After an important word on Gamergate, we dig in to the sophisticated AI of Pac-Man. We go in depth on Shadows of Mordor and its Nemesis System, and the AI in various other games, stealth and otherwise. Allen complains about bad RPG AI, Nigel tells us a tale of bad car AI, and Georgia gives us some very crucial information about pandas."
 explicit: "no"
 

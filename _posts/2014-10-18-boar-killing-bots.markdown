@@ -7,7 +7,7 @@ title: "28. 400,000 Boar-killing Bots"
 topic: "Scaling Games with Kristen Bornemann"
 duration: "1:18:24"
 length: 47050365
-link: http://traffic.libsyn.com/upupshow/upup28.mp3
+link: https://pinecast.com/listen/4b511812-4587-49fe-a5fb-57184279d02b.mp3?source=rss&amp;aid=0eafff2e-5c37-434d-b747-f8956f113257.mp3
 summary: "Kristen Bornemann, Development Director of the critically acclaimed MMO Guild Wars 2, joins us to talk scaling MMOs and other games. We talk about smooth and rocky launches, the death of 'realms', and Guild Wars 2's novel business model. We also discuss hackers, shipping bi-weekly updates, and Blizzard's Titan. We finish on a dark and stormy note."
 explicit: "no"
 
